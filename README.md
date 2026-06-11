@@ -44,4 +44,4 @@ Para cifrar, os caracteres de texto são convertidos para números reais (usando
 
 O vídeo demonstrando o funcionamento e a geração correta das chaves, encontra-se disponível no link abaixo:
 
-[Link do vídeo](https://youtu.be/J8cS_Yi3dcA)
+[Link do vídeo](https://youtu.be/DmyuQ9TCE_I)
